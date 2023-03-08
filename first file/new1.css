@@ -1,0 +1,22 @@
+ h1{
+    color:darkcyan;
+    text-align: center;
+ }
+ body{
+    background-image: url('dark-night.jpg'); no-repeat;
+    background-size: cover;
+ }
+p{
+    color: yellow;
+ }
+ .create{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    height: 200px;
+    width: 350px;
+ }
+ button:hover{
+background-color: black;
+ }
