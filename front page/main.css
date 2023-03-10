@@ -33,3 +33,17 @@ body{
 body{
     background: url(photo.jpg);
 }
+.sub-menu-1{
+    display: none;
+}
+.menu-bar ul li:hover .sub-menu-1{
+    display: block;
+    position: absolute;
+    background: rgb(211, 0, 98);
+    margin-top: 15px;
+    margin-left: -15px;
+}
+.menu-bar ul li:hover .sub-menu-1 {
+    display: block;
+    margin:10px;
+}
