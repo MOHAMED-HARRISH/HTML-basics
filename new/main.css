@@ -1,0 +1,14 @@
+h1{
+    color: #fff;
+    border: chartreuse;
+}
+body{
+    background: url(dark-night.jpg);
+    text-align: center;
+
+}
+.create{
+    color: deepskyblue;
+    text-align: center;
+    text-decoration: line-through;
+}
