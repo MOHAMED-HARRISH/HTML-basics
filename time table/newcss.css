@@ -1,0 +1,14 @@
+table{
+ border:thin solid black;
+ width:60%;
+ height:500px;
+ border-collapse: collapse;
+ background-color:yellow;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ text-align:center;
+}
+body{
+    background-color: darkgoldenrod;
+    padding-top:80px;
+    padding-left:300px;
+}
