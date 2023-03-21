@@ -3,7 +3,7 @@ body{
     text-align: center;
     size: 10px;
     top: 4em;
-    background: url(page.png) no-repeat;
+    background: url(page.png) ;
     background-position: center;
       
 }
