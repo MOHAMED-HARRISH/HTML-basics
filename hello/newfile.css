@@ -36,7 +36,7 @@ nav li a{
     text-decoration: none;
 }
 nav li a:hover{
-    color: orangered;
+    color: red;
 }
 .photo img{
     width: 100%;
