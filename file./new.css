@@ -1,0 +1,18 @@
+h1{
+    color: black;
+    text-align: center;
+    float: none;
+    background:violet;
+    padding: 10px;
+}
+body{
+    background-color: rgb(168, 247, 247);
+}
+.beauty{
+   padding: 20px;
+   float:unset;
+   text-align:center
+}
+img{
+    align-items: center;
+}
