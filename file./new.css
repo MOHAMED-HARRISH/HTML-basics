@@ -1,7 +1,7 @@
 h1{
     color: black;
     text-align: center;
-    float: none;
+    float: left;
     background:yellow;
     padding: 10px;
 }
