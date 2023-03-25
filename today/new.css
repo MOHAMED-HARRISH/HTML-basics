@@ -2,7 +2,7 @@ h1{
     color: red;
 }
 body{
-    background: url(hello.png) no-repeat;
+    background: url(hello.png) none;
 }
 .hello{
     position: absolute;
