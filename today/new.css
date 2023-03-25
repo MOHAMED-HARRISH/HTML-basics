@@ -1,0 +1,27 @@
+h1{
+    color: darkred;
+}
+body{
+    background: url(hello.png) no-repeat;
+}
+.hello{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    height: 200px;
+    width: auto;
+    padding: 10%;
+    cursor: pointer;
+    border: 1px solid;
+}
+.hi{
+    color: rgb(245, 15, 157);
+}
+button{
+    color: rgb(243, 6, 6);
+    padding: 3%;
+}
+button:hover{
+    background-color: gray;
+}
