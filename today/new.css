@@ -13,7 +13,7 @@ body{
     width: auto;
     padding: 10%;
     cursor: pointer;
-    border: 1px solid;
+    border: 3px solid;
 }
 .hi{
     color: rgb(245, 15, 157);
