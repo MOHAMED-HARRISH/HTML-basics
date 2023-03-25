@@ -20,7 +20,7 @@ body{
 }
 button{
     color: rgb(243, 6, 6);
-    padding: 3%;
+    padding: 5%;
 }
 button:hover{
     background-color: blue;
