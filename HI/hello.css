@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(128, 224, 248);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   
+}
+.signup-form{
+    background-color: rgb(250, 251, 252);
+    max-width: 40%;
+    flex: 1;
+    border-radius: 10px;
+    
+}
+ .form-header{
+    border-bottom: 1px solid #080808;
+    padding: 15px ;
+   
+ }
+ .form-header h1{
+    text-align: center;
+    color: gray;
+    font-size: 28px;
+ }
+ .form-body{
+    background: #fff;
+    padding: 5px 10px;
+ }
+ .row{
+    display: flex;
+ }
+ .input-group{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    margin: 10px 5px;
+ }
+ label{
+    color: firebrick;
+    font-size: 17px;
+ }
+ input[type="text"],
+ input[type="email"],
+ input[type="password"] {
+    width: 100%;
+    font-size: 18px;
+    height: 34px;
+    max-width: 90%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #666;
+    border-radius: 4px;
+    background: #fff;
+    outline: none;
+ }
+ .radio-group{
+    display: flex;
+ }
+ .radio-groupdiv{
+    flex:1;
+ }
