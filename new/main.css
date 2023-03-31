@@ -1,3 +1,5 @@
+*{
+    padding 0;
 h1{
     color: white;
     border: chartreuse;
@@ -5,6 +7,7 @@ h1{
 body{
     background: url(dark-night.jpg);
     text-align: center;
+ 
 
 }
 .create{
