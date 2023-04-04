@@ -19,7 +19,7 @@ a{
     height: 150px;
     background-color: rgb(221, 4, 58);
     border-radius: 100%;
-    transition: all 2s;
+    transition: all 1s;
 }
 #box:hover{
     border-radius: 0px;
