@@ -18,7 +18,7 @@ a{
     width: 150px;
     height: 150px;
     background-color: rgb(221, 4, 58);
-    border-radius: 100%;
+    border-radius: 101%;
     transition: all 1s;
 }
 #box:hover{
