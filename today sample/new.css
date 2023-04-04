@@ -1,0 +1,27 @@
+h1{
+    color: wheat;
+    background: black;
+    text-align: center;
+}
+.heading{
+    color: wheat;
+    background: rgb(250, 4, 4);
+    text-align: center;
+}
+a{
+       color: rgb(238, 110, 5);
+    text-decoration: none;
+    margin: 30px;
+   background-color: yellow;
+}
+#box{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(221, 4, 58);
+    border-radius: 100%;
+    transition: all 2s;
+}
+#box:hover{
+    border-radius: 0px;
+    background-color: black;
+}
