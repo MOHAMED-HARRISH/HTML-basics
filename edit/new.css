@@ -1,0 +1,15 @@
+body{
+    color: rgb(232, 10, 252);
+    text-align: center;
+    size: 10px;
+    top: 4em;
+    background: url(page.png) no-repeat;
+    background-position: center;
+      
+}
+button{
+    color: #fff;
+    background-color: black;
+    padding: 10px;
+    font-style: oblique;
+}
